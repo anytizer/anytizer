@@ -1,16 +1,25 @@
-### Hi there 👋
+## Database Designing
+* MySQL, SQLite
+* DBSchema, HeidiSQL, SQLYog, DB Browser for SQLite
 
-<!--
-**anytizer/anytizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Team Leadership
+* E-Commerce, Payment Gateways
 
-Here are some ideas to get you started:
+## Web Development
+* C#, PHP, Python
+* Javascripts
+* CSS
+* JSON, XML, CSV, HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Font Development
+* BirdFont, FontForge
+
+## Audio/Video/Image Editing
+* LMMS, Audacity, Filmora, Photoshop
+
+## Photography
+## DIY Electronics
+## Debugging
+
+## IDEs
+* Visual Studio, PyCharm (previously, PHPStorm)
