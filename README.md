@@ -1,6 +1,7 @@
 ## Database Designing
 * [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [SQLite](https://www.sqlite.org/)
-* [DBSchema](https://dbschema.com/), [HeidiSQL](https://www.heidisql.com/), [SQLYog Community](https://github.com/webyog/sqlyog-community/wiki/Downloads), [DB Browser for SQLite](https://sqlitebrowser.org)
+* Database Diagramming with: [DBSchema](https://dbschema.com/), [Workbench](https://www.mysql.com/products/workbench/design/)
+* Database Browses: [HeidiSQL](https://www.heidisql.com/), [SQLYog Community](https://github.com/webyog/sqlyog-community/wiki/Downloads), [DB Browser for SQLite](https://sqlitebrowser.org), [DataGrip](https://www.jetbrains.com/datagrip/)
 
 ## Team Leadership
 * [OpenCart E-Commerce](https://www.opencart.com)
@@ -25,10 +26,10 @@
 
 ## Debugging and Unit Testing
 * [Xdebbug](https://xdebug.org/)
-* [PHPUnit](https://phpunit.de/), MSTEst
+* [PHPUnit](https://phpunit.de/), [MSTest](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest)
 
 ## IDEs
-* [Visual Studio]()
+* [Visual Studio](https://visualstudio.microsoft.com/)
 * [PyCharm](https://www.jetbrains.com/pycharm/), (previously, [PHPStorm](https://www.jetbrains.com/phpstorm/))
 
 Wireframes and Diagramming Tools
