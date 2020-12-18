@@ -6,14 +6,14 @@
 * Earlier: [PostgreSQL](https://www.postgresql.org/)
 * Database Diagramming with: [DBSchema](https://dbschema.com/), [Workbench](https://www.mysql.com/products/workbench/design/)
 * Database Browsers: [HeidiSQL](https://www.heidisql.com/), [SQLYog Community](https://github.com/webyog/sqlyog-community/wiki/Downloads), [DB Browser for SQLite](https://sqlitebrowser.org), [DataGrip](https://www.jetbrains.com/datagrip/)
-* PHPMyAdmin, 
+* [PHPMyAdmin](https://www.phpmyadmin.net/), [PHP Lite Admin](https://www.phpliteadmin.org/)
 
 
 ## Team Leadership in Software Development
 
 * Software Analysis
 * Project Management
-* [OpenCart E-Commerce](https://www.opencart.com)
+* [OpenCart E-Commerce](https://www.opencart.com/)
 * [Paypal](https://www.paypal.com/), Payment API and Gateways Integration
 
 
