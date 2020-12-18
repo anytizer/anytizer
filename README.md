@@ -2,10 +2,9 @@
 
 ## Databases, Modeling Tools and Browsers
 
-* [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [SQLite](https://www.sqlite.org/)
-* Earlier: [PostgreSQL](https://www.postgresql.org/)
-* Database Diagramming with: [DBSchema](https://dbschema.com/), [Workbench](https://www.mysql.com/products/workbench/design/)
-* Database Browsers: [HeidiSQL](https://www.heidisql.com/), [SQLYog Community](https://github.com/webyog/sqlyog-community/wiki/Downloads), [DB Browser for SQLite](https://sqlitebrowser.org), [DataGrip](https://www.jetbrains.com/datagrip/)
+* [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [SQLite](https://www.sqlite.org/), [PostgreSQL](https://www.postgresql.org/)
+* Diagramming with: [DBSchema](https://dbschema.com/), [Workbench](https://www.mysql.com/products/workbench/design/)
+* Browsers: [HeidiSQL](https://www.heidisql.com/), [SQLYog Community](https://github.com/webyog/sqlyog-community/wiki/Downloads), [DB Browser for SQLite](https://sqlitebrowser.org), [DataGrip](https://www.jetbrains.com/datagrip/)
 * [PHPMyAdmin](https://www.phpmyadmin.net/), [PHP Lite Admin](https://www.phpliteadmin.org/)
 
 
@@ -13,17 +12,23 @@
 
 * Software Analysis
 * Project Management
+* Technical Development
 * [OpenCart E-Commerce](https://www.opencart.com/)
 * [Paypal](https://www.paypal.com/), Payment API and Gateways Integration
 
 
-## Core Web Development
+## Core Development
 
-* C#, [PHP](https://php.net/), [Python](https://python.org/)
+* C#, [PHP](https://php.net/?from=anytizer), [Python](https://python.org/?from=anytizer)
 * Javascripts, [AngularJS](https://angularjs.org/), [Axios](https://github.com/axios/axios/)
 * CSS: [W3CSS](https://www.w3schools.com/w3css/default.asp)
 * [JSON](https://www.json.org/json-en.html), XML, CSV, HTML
 * API, [Micro Services](https://github.com/anytizer/micro-services.wp/tree/master/micro-services)
+
+
+## Servers
+
+* [Apache](https://httpd.apache.org/?from=anytizer)
 
 
 ## Font and Logo Development
@@ -47,14 +52,14 @@
 
 * [Raspberry Pi](https://www.raspberrypi.org/)
 * [Arduino](https://www.arduino.cc/)
-* Basic Hardware, [Fritzing](https://fritzing.org/)
+* Basic Hardware Concepts
+* [EasyEDA](https://easyeda.com/), [Fritzing](https://fritzing.org/)
 
 
 ## Debugging and Unit Testing
 
 * [Xdebbug](https://xdebug.org/)
-* [PHPUnit](https://phpunit.de/)
-* [MSTest](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest)
+* [PHPUnit](https://phpunit.de/), [MSTest](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest), [Unit Testing in Python](https://docs.python.org/3/library/unittest.html)
 
 
 ## IDEs and Code Editors
@@ -75,6 +80,7 @@
 
 
 ## Browsers, Connectors and Terminals
+
 * [Opera](https://www.opera.com/)
 * [Chrome](https://www.google.com/intl/en_ca/chrome/)
 * [Firefox](https://www.mozilla.org/en-US/)
@@ -84,6 +90,7 @@
 
 
 ## Collaboration Tools
+
 * [Redmine](https://www.redmine.org/)
 * [MantisBT](https://www.mantisbt.org/)
 * [OnlyOffice](https://www.onlyoffice.com)
@@ -91,17 +98,18 @@
 
 ## Version Control, DevOps
 
-* Self hosted: SVN, Git
-* [GitHub](https://github.com/)
-* [BitBucket](https://bitbucket.org/)
-* [TrortoiseSVN](https://tortoisesvn.net/downloads.html), [TortoiseGit](https://tortoisegit.org/download/)
+* Self hosted: [SVN](https://subversion.apache.org/), [Git SCM](https://git-scm.com/)
+* Hosting: [GitHub](https://github.com/), [BitBucket](https://bitbucket.org/)
+* Tools: [TrortoiseSVN](https://tortoisesvn.net/downloads.html), [TortoiseGit](https://tortoisegit.org/download/)
 
 
 ## Credits
 
-* [Database Image](https://pixabay.com/vectors/database-storage-cylinder-data-2025620/)
-* [Background Light](https://pixabay.com/vectors/database-storage-cylinder-data-2025620/)
-* [GitHub](https://github.com/)
+* [GitHub](https://github.com/) for hosting projects
+* [Gmail](https://mail.google.com/mail/) for hosting emails
+* [JetBrains](https://www.jetbrains.com/?from=anytizer) for allowing to use their products
+* [Balsamiq Wireframing Tool](https://balsamiq.com/wireframes/?from=anytizer)
+* [pixabay](https://pixabay.com/?from=anytizer) for Images of [Database](https://pixabay.com/vectors/database-storage-cylinder-data-2025620/) and [Background Light](https://pixabay.com/vectors/database-storage-cylinder-data-2025620/)
 
 
 ## Profiles Links
