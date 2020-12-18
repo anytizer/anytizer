@@ -1,21 +1,20 @@
 ![Banner Image](banner.png)
 
-## Database Design
+## Databases, Modeling Tools and Browsers
 
 * [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [SQLite](https://www.sqlite.org/)
+* Earlier: [PostgreSQL](https://www.postgresql.org/)
 * Database Diagramming with: [DBSchema](https://dbschema.com/), [Workbench](https://www.mysql.com/products/workbench/design/)
 * Database Browsers: [HeidiSQL](https://www.heidisql.com/), [SQLYog Community](https://github.com/webyog/sqlyog-community/wiki/Downloads), [DB Browser for SQLite](https://sqlitebrowser.org), [DataGrip](https://www.jetbrains.com/datagrip/)
-* Earlier: [PostgreSQL](https://www.postgresql.org/)
+* PHPMyAdmin, 
 
 
-## Team Leadership in Software Development and Integration
+## Team Leadership in Software Development
 
-* Web Development
 * Software Analysis
 * Project Management
 * [OpenCart E-Commerce](https://www.opencart.com)
-* [Paypal](https://www.paypal.com/)
-* Payment API and Gateways Integration
+* [Paypal](https://www.paypal.com/), Payment API and Gateways Integration
 
 
 ## Core Web Development
@@ -58,16 +57,12 @@
 * [MSTest](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest)
 
 
-## IDEs
+## IDEs and Code Editors
 
 * [Visual Studio](https://visualstudio.microsoft.com/)
 * [Netbeans](https://netbeans.apache.org/)
 * [PyCharm](https://www.jetbrains.com/pycharm/)
 * [PHPStorm](https://www.jetbrains.com/phpstorm/)
-
-
-## Code Editors
-
 * [Notepad++](https://notepad-plus-plus.org)
 * [Visual Code](https://code.visualstudio.com/)
 
@@ -79,15 +74,16 @@
 * [Balsamiq](https://balsamiq.com/)
 
 
-## Browsers
-
+## Browsers, Connectors and Terminals
 * [Opera](https://www.opera.com/)
 * [Chrome](https://www.google.com/intl/en_ca/chrome/)
 * [Firefox](https://www.mozilla.org/en-US/)
 * [FileZilla](https://filezilla-project.org/) Client/Server
+* [SmarTTY](https://sysprogs.com/SmarTTY/) - multi-tabbed SSH client
+* [ConEmu Windows Terminal](https://conemu.github.io/)
 
 
-## Project Management and Collaboration Tools
+## Collaboration Tools
 * [Redmine](https://www.redmine.org/)
 * [MantisBT](https://www.mantisbt.org/)
 * [OnlyOffice](https://www.onlyoffice.com)
@@ -95,13 +91,20 @@
 
 ## Version Control, DevOps
 
-* Self hosted: Git, SVN
+* Self hosted: SVN, Git
 * [GitHub](https://github.com/)
 * [BitBucket](https://bitbucket.org/)
 * [TrortoiseSVN](https://tortoisesvn.net/downloads.html), [TortoiseGit](https://tortoisegit.org/download/)
 
 
-## Profiles
+## Credits
+
+* [Database Image](https://pixabay.com/vectors/database-storage-cylinder-data-2025620/)
+* [Background Light](https://pixabay.com/vectors/database-storage-cylinder-data-2025620/)
+* [GitHub](https://github.com/)
+
+
+## Profiles Links
 
 * [GitHub](https://github.com/anytizer/) - Projects
 * [WordPress](https://profiles.wordpress.org/pbimal/#content-plugins) - Plugins
