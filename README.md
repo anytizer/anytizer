@@ -1,3 +1,5 @@
+![Banner Image](banner.png)
+
 ## Database Design
 
 * [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [SQLite](https://www.sqlite.org/)
@@ -27,7 +29,7 @@
 
 ## Font and Logo Development
 
-* [BirdFont](https://birdfont.org/) [examples](https://github.com/anytizer/fonts/tree/master/fruits) of tracing fruits
+* [BirdFont](https://birdfont.org/): [examples](https://github.com/anytizer/fonts/tree/master/fruits) of tracing fruits
 * [FontForge](https://fontforge.org/en-US/)
 * [AAA Logo Design Software](https://www.aaa-logo.com/)
 
