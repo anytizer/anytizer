@@ -20,13 +20,13 @@
 ## Core Development
 
 * C#, [PHP](https://php.net/?from=anytizer), [Python](https://python.org/?from=anytizer)
-* Javascripts, [AngularJS](https://angularjs.org/), [Axios](https://github.com/axios/axios/)
+* Javascripts, [Angular](https://angular.io/), [AngularJS](https://angularjs.org/), [Axios](https://github.com/axios/axios/)
 * CSS: [W3CSS](https://www.w3schools.com/w3css/default.asp)
 * [JSON](https://www.json.org/json-en.html), XML, CSV, HTML
 * API, [Micro Services](https://github.com/anytizer/micro-services.wp/tree/master/micro-services)
 
 
-## Servers
+## Web Servers
 
 * [Apache](https://httpd.apache.org/?from=anytizer)
 
