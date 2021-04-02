@@ -50,9 +50,8 @@
 
 ## DIY Electronics
 
-* [Raspberry Pi](https://www.raspberrypi.org/)
+* [Raspberry Pi](https://www.raspberrypi.org/), [Pico Microcontroller](https://projects.raspberrypi.org/en/projects/)
 * [Arduino](https://www.arduino.cc/)
-* Basic Hardware Concepts
 * [EasyEDA](https://easyeda.com/), [Fritzing](https://fritzing.org/)
 
 
