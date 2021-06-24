@@ -41,6 +41,7 @@
 ## Audio, Video, Image Editing and Photography
 
 * [LMMS](https://lmms.io/)
+* [Hydrogen](http://hydrogen-music.org/)
 * [Audacity](https://www.audacityteam.org)
 * [Studio One Prime](https://shop.presonus.com/Studio-One-5-Prime)
 * [Filmora](https://filmora.wondershare.com/)
