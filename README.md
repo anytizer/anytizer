@@ -43,6 +43,7 @@
 * [LMMS](https://lmms.io/)
 * [Hydrogen](http://hydrogen-music.org/)
 * [Audacity](https://www.audacityteam.org)
+* [Rosegarden](https://www.rosegardenmusic.com/getting/source/)
 * [Polyphone SoundFont Editor](https://www.polyphone-soundfonts.com/download)
 * [Studio One Prime](https://shop.presonus.com/Studio-One-5-Prime)
 * [Filmora](https://filmora.wondershare.com/)
