@@ -73,6 +73,9 @@
 * [Notepad++](https://notepad-plus-plus.org)
 * [Visual Code](https://code.visualstudio.com/)
 
+## IDE Extensions
+* [SonarLint](https://www.sonarsource.com/products/sonarlint/)
+
 
 ## Wireframes and Diagramming Tools
 
@@ -108,18 +111,7 @@
 ## Credits
 
 * [GitHub](https://github.com/) for hosting projects
-* [Gmail](https://mail.google.com/mail/) for hosting emails
 * [JetBrains](https://www.jetbrains.com/?from=anytizer) for allowing to use their products
 * [Balsamiq Wireframing Tool](https://balsamiq.com/wireframes/?from=anytizer)
 * [pixabay](https://pixabay.com/?from=anytizer) for Images of [Database](https://pixabay.com/vectors/database-storage-cylinder-data-2025620/) and [Background Light](https://pixabay.com/vectors/database-storage-cylinder-data-2025620/)
 
-
-## Profiles Links
-
-* [GitHub](https://github.com/anytizer/) - Projects
-* [WordPress](https://profiles.wordpress.org/pbimal/#content-plugins) - Plugins
-* [LinkedIn](https://www.linkedin.com/in/bimalpoudel/)
-* [Indeed](https://my.indeed.com/p/bimalp-1f7dcyx)
-* [Stack Overflow](https://stackoverflow.com/users/2156512/bimal-poudel)
-* [Free Sound](https://freesound.org/people/pbimal/)
-* [YouTube](https://www.youtube.com/) - pending
