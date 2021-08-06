@@ -60,7 +60,7 @@
 
 ## Debugging and Unit Testing
 
-* [Xdebbug](https://xdebug.org/)
+* [Xdebug](https://xdebug.org/)
 * [PHPUnit](https://phpunit.de/), [MSTest](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest), [Unit Testing in Python](https://docs.python.org/3/library/unittest.html)
 
 
