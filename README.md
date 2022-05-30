@@ -29,6 +29,9 @@
 ## Web Servers
 
 * [Apache](https://httpd.apache.org/?from=anytizer)
+* [Kestrel](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-6.0)
+* [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
+* [Angular](https://angular.io/start/start-deployment) - ng serve
 
 
 ## Font and Logo Development
