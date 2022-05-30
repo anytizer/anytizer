@@ -21,7 +21,7 @@
 
 * C#, [PHP](https://php.net/?from=anytizer), [Python](https://python.org/?from=anytizer)
 * Javascripts, [Angular](https://angular.io/), [AngularJS](https://angularjs.org/), [Axios](https://github.com/axios/axios/)
-* CSS: [W3CSS](https://www.w3schools.com/w3css/default.asp), TailwindCSS
+* CSS: [W3CSS](https://www.w3schools.com/w3css/default.asp), [Bootstrap](https://getbootstrap.com/), [TailwindCSS](https://tailwindcss.com), [SCSS](https://sass-lang.com/)
 * [JSON](https://www.json.org/json-en.html), XML, CSV, HTML
 * API, [Micro Services](https://github.com/anytizer/micro-services.wp/tree/master/micro-services)
 
