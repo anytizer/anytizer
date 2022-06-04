@@ -6,6 +6,7 @@
 * Diagramming with: [DBSchema](https://dbschema.com/), [Workbench](https://www.mysql.com/products/workbench/design/)
 * Browsers: [HeidiSQL](https://www.heidisql.com/), [SQLYog Community](https://github.com/webyog/sqlyog-community/wiki/Downloads), [DB Browser for SQLite](https://sqlitebrowser.org), [DataGrip](https://www.jetbrains.com/datagrip/)
 * [PHPMyAdmin](https://www.phpmyadmin.net/), [PHP Lite Admin](https://www.phpliteadmin.org/)
+* [Neor ProfileSQL](https://www.profilesql.com/)
 
 
 ## Team Leadership in Software Development
@@ -13,7 +14,7 @@
 * Software Analysis
 * Project Management
 * Technical Development
-* [OpenCart E-Commerce](https://www.opencart.com/) | [Fork](https://github.com/anytizer/opencart/), [OCUnit](https://github.com/anytizer/ocunit/) - merchant oriented tests for OpenCart
+* [OpenCart E-Commerce](https://www.opencart.com/) | [OCUnit](https://github.com/anytizer/ocunit/) - merchant oriented tests for OpenCart
 * [Paypal](https://www.paypal.com/), Payment API and Gateways Integration
 
 
