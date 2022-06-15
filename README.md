@@ -102,12 +102,12 @@
 
 * [Redmine](https://www.redmine.org/)
 * [MantisBT](https://www.mantisbt.org/)
-* [OnlyOffice](https://www.onlyoffice.com)
+* [OnlyOffice](https://www.onlyoffice.com/)
 
 
 ## Version Control, DevOps
 
-* Self hosted: [SVN](https://subversion.apache.org/), [Git SCM](https://git-scm.com/)
+* Self hosted (LAN Based): [SVN](https://subversion.apache.org/), [Git SCM](https://git-scm.com/)
 * Hosting: [GitHub](https://github.com/), [BitBucket](https://bitbucket.org/)
 * Tools: [TrortoiseSVN](https://tortoisesvn.net/downloads.html), [TortoiseGit](https://tortoisegit.org/download/)
 
