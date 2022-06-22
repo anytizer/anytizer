@@ -2,7 +2,7 @@
 
 Please check out some of the Software, IDE and Authoring tools I use frequently.
 And a special thank for those vendors who provided me free access or software license to their products, so that I was able to bring my free snippets and tools.
-
+This is my bookmark to several deeplinks to nice applications.
 
 ## Databases, Modeling Tools and Browsers
 
@@ -17,7 +17,9 @@ And a special thank for those vendors who provided me free access or software li
 
 * Software Analysis
 * Project Management
+* Study, Research and Review problems
 * Technical Development
+* Building up several micro-solutions
 * [OpenCart E-Commerce](https://www.opencart.com/) | [OCUnit](https://github.com/anytizer/ocunit/) - merchant oriented tests for OpenCart
 * [Paypal](https://www.paypal.com/), Payment API and Gateways Integration
 
@@ -27,7 +29,7 @@ And a special thank for those vendors who provided me free access or software li
 * C#, [PHP](https://php.net/?from=anytizer), [Python](https://python.org/?from=anytizer)
 * Javascripts, [Angular](https://angular.io/), [AngularJS](https://angularjs.org/), [Axios](https://github.com/axios/axios/)
 * CSS: [W3CSS](https://www.w3schools.com/w3css/default.asp), [Bootstrap](https://getbootstrap.com/), [TailwindCSS](https://tailwindcss.com), [SCSS](https://sass-lang.com/)
-* [JSON](https://www.json.org/json-en.html), XML, CSV, HTML
+* [JSON](https://www.json.org/json-en.html), JSONedit(https://tomeko.net/software/JSONedit/), XML, CSV, HTML
 * API, [Micro Services](https://github.com/anytizer/micro-services.wp/tree/master/micro-services)
 
 ## Web Servers
@@ -38,8 +40,9 @@ And a special thank for those vendors who provided me free access or software li
 * [Angular](https://angular.io/start/start-deployment) - ng serve
 
 
-## Font and Logo and Vector Development
+## Font, Logo, Icons and Vector Development
 
+* [Wikipedia - Comparision of Icon Sets](https://commons.wikimedia.org/wiki/Comparison_of_icon_sets)
 * [BirdFont](https://birdfont.org/): [examples](https://github.com/anytizer/fonts/tree/master/fruits) of tracing fruits
 * [FontForge](https://fontforge.org/en-US/)
 * [AAA Logo Design Software](https://www.aaa-logo.com/)
