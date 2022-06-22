@@ -1,5 +1,9 @@
 ![Banner Image](banner.png)
 
+Please check out some of the Software, IDE and Authoring tools I use frequently.
+And a special thank for those vendors who provided me free access or software license to their products, so that I was able to bring my free snippets and tools.
+
+
 ## Databases, Modeling Tools and Browsers
 
 * [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [SQLite](https://www.sqlite.org/), [PostgreSQL](https://www.postgresql.org/)
@@ -34,11 +38,13 @@
 * [Angular](https://angular.io/start/start-deployment) - ng serve
 
 
-## Font and Logo Development
+## Font and Logo and Vector Development
 
 * [BirdFont](https://birdfont.org/): [examples](https://github.com/anytizer/fonts/tree/master/fruits) of tracing fruits
 * [FontForge](https://fontforge.org/en-US/)
 * [AAA Logo Design Software](https://www.aaa-logo.com/)
+* [InkScape](https://inkscape.org) - Draw freely
+* [VectorStyler](https://www.vectorstyler.com/)
 
 
 ## Audio, Video, Image Editing and Photography
