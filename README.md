@@ -1,7 +1,7 @@
 ![Banner Image](banner.png)
 
 Please check out some of the Software, IDE and Authoring tools I use frequently.
-And a special thank for those vendors who provided me free access or software license to their products, so that I was able to bring my free snippets and tools.
+And a special thank for those vendors who provided me free access or software license to their products, so that I was able to bring my free snippets and tools here in github.
 This is my bookmark to several deeplinks to nice applications.
 
 ## Databases, Modeling Tools and Browsers
@@ -41,7 +41,7 @@ This is my bookmark to several deeplinks to nice applications.
 
 
 ## Font, Logo, Icons and Vector Development
-
+* [FontAwesome](https://fontawesome.com/download) - collection of free icons for web or desktop use
 * [Wikipedia - Comparision of Icon Sets](https://commons.wikimedia.org/wiki/Comparison_of_icon_sets)
 * [BirdFont](https://birdfont.org/): [examples](https://github.com/anytizer/fonts/tree/master/fruits) of tracing fruits
 * [FontForge](https://fontforge.org/en-US/)
