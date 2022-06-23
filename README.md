@@ -80,8 +80,8 @@ This is my bookmark to several deeplinks to nice applications.
 
 ## IDEs and Code Editors
 
-* [Visual Studio](https://visualstudio.microsoft.com/)
-* [Netbeans](https://netbeans.apache.org/)
+* [Visual Studio](https://visualstudio.microsoft.com/) - 2022 Preview
+* [Netbeans](https://netbeans.apache.org/) - [v14](https://netbeans.apache.org/download/nb14/nb14.html)
 * [PyCharm](https://www.jetbrains.com/pycharm/)
 * [PHPStorm](https://www.jetbrains.com/phpstorm/)
 * [Notepad++](https://notepad-plus-plus.org)
@@ -89,7 +89,7 @@ This is my bookmark to several deeplinks to nice applications.
 
 
 ## IDE Extensions
-* [SonarLint](https://www.sonarsource.com/products/sonarlint/)
+* [SonarLint](https://www.sonarsource.com/products/sonarlint/) for Visual Code
 
 
 ## Wireframes and Diagramming Tools
