@@ -131,4 +131,6 @@ Below are my bookmarks to several nice-to-have applications.
 * [Balsamiq Wireframing Tool](https://balsamiq.com/wireframes/?from=anytizer)
 * [pixabay](https://pixabay.com/?from=anytizer) for Images of [Database](https://pixabay.com/vectors/database-storage-cylinder-data-2025620/) and [Background Light](https://pixabay.com/vectors/database-storage-cylinder-data-2025620/)
 
-![trophies](https://github-profile-trophy.vercel.app/?username=anytizer&column=7&row=1)
+![trophies](https://github-profile-trophy.vercel.app/?username=anytizer&column=5&row=1)
+
+![steaks](https://github-readme-streak-stats.herokuapp.com/?user=anytizer)
