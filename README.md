@@ -2,7 +2,8 @@
 
 Please check out some of the Software, IDE and Authoring tools I use frequently.
 And a special thank for those vendors who provided me free access or software license to their products, so that I was able to bring my free snippets and tools here in github.
-This is my bookmark to several deeplinks to nice applications.
+
+Below are my bookmarks to several nice-to-have applications.
 
 ## Databases, Modeling Tools and Browsers
 
@@ -129,3 +130,5 @@ This is my bookmark to several deeplinks to nice applications.
 * [JetBrains](https://www.jetbrains.com/?from=anytizer) for allowing to use their products
 * [Balsamiq Wireframing Tool](https://balsamiq.com/wireframes/?from=anytizer)
 * [pixabay](https://pixabay.com/?from=anytizer) for Images of [Database](https://pixabay.com/vectors/database-storage-cylinder-data-2025620/) and [Background Light](https://pixabay.com/vectors/database-storage-cylinder-data-2025620/)
+
+<img src="https://github-profile-trophy.vercel.app/?username=anytizer" alt="anytizer" />
