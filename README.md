@@ -53,13 +53,6 @@ Below are my bookmarks to several nice-to-have applications.
 * [UXWING](https://uxwing.com/) - Exclusive collection of free icons download for commercial projects without attribution
 
 
-## Other links:
-[![banner](https://transparent-images.herokuapp.com/image/?w=1000&h=100)](https://transparent-images.herokuapp.com/)
-
-* [pixel.php](https://github.com/anytizer/pixel.php) ↑
-* [phpinfo for WordPress](https://wordpress.org/plugins/php-info-wp/advanced/)
-* [relay.php](https://packagist.org/packages/anytizer/relay.php) - minimal http client (PHP/cURL based)
-
 ## Audio, Video, Image Editing and Photography
 
 * [LMMS](https://lmms.io/)
@@ -139,6 +132,14 @@ Below are my bookmarks to several nice-to-have applications.
 * [JetBrains](https://www.jetbrains.com/?from=anytizer) for allowing to use their products
 * [Balsamiq Wireframing Tool](https://balsamiq.com/wireframes/?from=anytizer)
 * [pixabay](https://pixabay.com/?from=anytizer) for Images of [Database](https://pixabay.com/vectors/database-storage-cylinder-data-2025620/) and [Background Light](https://pixabay.com/vectors/database-storage-cylinder-data-2025620/)
+
+
+## Other links:
+[![banner](https://transparent-images.herokuapp.com/image/?w=1000&h=100&color=FFFF00)](https://transparent-images.herokuapp.com/)
+
+* [pixel.php](https://github.com/anytizer/pixel.php) ↑
+* [phpinfo for WordPress](https://wordpress.org/plugins/php-info-wp/advanced/)
+* [relay.php](https://packagist.org/packages/anytizer/relay.php) - minimal http client (PHP/cURL based)
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=anytizer&column=5&row=1)
 
