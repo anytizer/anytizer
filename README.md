@@ -53,6 +53,13 @@ Below are my bookmarks to several nice-to-have applications.
 * [UXWING](https://uxwing.com/) - Exclusive collection of free icons download for commercial projects without attribution
 
 
+## Other links:
+[![banner](https://transparent-images.herokuapp.com/image/?w=1000&h=100)](https://transparent-images.herokuapp.com/)
+
+* [pixel.php](https://github.com/anytizer/pixel.php) ↑
+* [phpinfo for WordPress](https://wordpress.org/plugins/php-info-wp/advanced/)
+* [relay.php](https://packagist.org/packages/anytizer/relay.php) - minimal http client (PHP/cURL based)
+
 ## Audio, Video, Image Editing and Photography
 
 * [LMMS](https://lmms.io/)
