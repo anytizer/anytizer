@@ -1,7 +1,7 @@
 ![Banner Image](banner.png)
 
-Please check out some of the Software, IDE and Authoring tools I use frequently.
-And a special thank for those vendors who provided me free access or software license to their products, so that I was able to bring my free snippets and tools here in github.
+Please check out some of the Software, IDE and Authoring tools, and some cloud services I use frequently.
+A special thank goes for those vendors who provided me free access or software license to their products, so that I was able to bring my free snippets and tools here in github.
 
 Below are my bookmarks to several nice-to-have applications.
 
@@ -21,8 +21,6 @@ Below are my bookmarks to several nice-to-have applications.
 * Study, Research and Review problems
 * Technical Development
 * Building up several micro-solutions
-* [OpenCart E-Commerce](https://www.opencart.com/) | [OCUnit](https://github.com/anytizer/ocunit/) - merchant oriented tests for OpenCart
-* [Paypal](https://www.paypal.com/), Payment API and Gateways Integration
 
 
 ## Core Development
@@ -33,6 +31,8 @@ Below are my bookmarks to several nice-to-have applications.
 * CSS: [W3CSS](https://www.w3schools.com/w3css/default.asp), [Bootstrap](https://getbootstrap.com/), [TailwindCSS](https://tailwindcss.com), [SCSS](https://sass-lang.com/)
 * [JSON](https://www.json.org/json-en.html), [JSONedit](https://tomeko.net/software/JSONedit/), XML, CSV, HTML
 * API, [Micro Services](https://github.com/anytizer/micro-services.wp/tree/master/micro-services)
+* [OpenCart E-Commerce](https://www.opencart.com/) | [OCUnit](https://github.com/anytizer/ocunit/) - merchant oriented tests for OpenCart
+* [Paypal](https://www.paypal.com/), Payment API and Gateways Integration
 
 ## Web Servers
 
@@ -49,8 +49,8 @@ Below are my bookmarks to several nice-to-have applications.
 * [FontForge](https://fontforge.org/en-US/)
 * [AAA Logo Design Software](https://www.aaa-logo.com/)
 * [InkScape](https://inkscape.org) - Draw freely
-* [UXWING](https://uxwing.com/) - Exclusive collection of free icons download for commercial projects without attribution
 * [VectorStyler](https://www.vectorstyler.com/)
+* [UXWING](https://uxwing.com/) - Exclusive collection of free icons download for commercial projects without attribution
 
 
 ## Audio, Video, Image Editing and Photography
