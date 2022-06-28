@@ -49,6 +49,7 @@ Below are my bookmarks to several nice-to-have applications.
 * [FontForge](https://fontforge.org/en-US/)
 * [AAA Logo Design Software](https://www.aaa-logo.com/)
 * [InkScape](https://inkscape.org) - Draw freely
+* [UXWING](https://uxwing.com/) - Exclusive collection of free icons download for commercial projects without attribution
 * [VectorStyler](https://www.vectorstyler.com/)
 
 
