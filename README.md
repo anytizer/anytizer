@@ -93,6 +93,7 @@ Below are my bookmarks to several nice-to-have applications.
 
 ## IDE Extensions
 * [SonarLint](https://www.sonarsource.com/products/sonarlint/) for Visual Code
+* [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 
 
 ## Wireframes and Diagramming Tools
