@@ -17,9 +17,10 @@ Below are my bookmarks to several nice-to-have applications.
 ## Team Leadership in Software Development
 
 * Software Analysis
-* Project Management
 * Study, Research and Review problems
+* Project Management
 * Technical Development
+* Testing and Delivery Managemnet
 * Building up several micro-solutions
 
 
@@ -57,10 +58,10 @@ Below are my bookmarks to several nice-to-have applications.
 
 * [LMMS](https://lmms.io/)
 * [Hydrogen](http://hydrogen-music.org/)
-* [Audacity](https://www.audacityteam.org)
+* [Audacity](https://www.audacityteam.org/)
 * [Rosegarden](https://www.rosegardenmusic.com/getting/source/)
-* [Polyphone SoundFont Editor](https://www.polyphone-soundfonts.com/download)
-* [Studio One Prime](https://shop.presonus.com/Studio-One-5-Prime)
+* [Polyphone SoundFont Editor](https://www.polyphone-soundfonts.com/download/)
+* [Studio One Prime](https://shop.presonus.com/Studio-One-5-Prime/)
 * [Filmora](https://filmora.wondershare.com/)
 * [ACDSee](https://www.acdsee.com/en/products/photo-studio-ultimate/)
 * [Photoshop](https://www.adobe.com/products/photoshop.html)
@@ -136,9 +137,10 @@ Below are my bookmarks to several nice-to-have applications.
 
 
 ## Other links:
-[![banner](https://transparent-images.herokuapp.com/image/?w=1000&h=100&color=FFFF00)](https://transparent-images.herokuapp.com/)
+<!--[![banner](https://transparent-images.herokuapp.com/image/?w=1000&h=100&color=FFFF00)](https://transparent-images.herokuapp.com/)-->
 
-* [pixel.php](https://github.com/anytizer/pixel.php) ↑
+* [pixel.php](https://github.com/anytizer/pixel.php)
+* [picker.fa](https://anytizer.github.io/demo/picker.fa/index.html)
 * [phpinfo for WordPress](https://wordpress.org/plugins/php-info-wp/advanced/)
 * [relay.php](https://packagist.org/packages/anytizer/relay.php) - minimal http client (PHP/cURL based)
 
