@@ -1,7 +1,7 @@
 ![Banner Image](banner.png)
 
-Please check out some of the Software, IDE and Authoring tools, and some cloud services I use frequently.
-A special thank goes for those vendors who provided me free access or software license to their products, so that I was able to bring my free snippets and tools here in github.
+Please check out some of the Software, IDE, Authoring tools, and some cloud services I use frequently.
+A special thank goes for those vendors who provided me free access or software license to their products, so that I was able to bring my free snippets here in github.
 
 Below are my bookmarks to several nice-to-have applications.
 
@@ -137,13 +137,13 @@ Below are my bookmarks to several nice-to-have applications.
 
 
 ## Other links:
-<!--[![banner](https://transparent-images.herokuapp.com/image/?w=1000&h=100&color=FFFF00)](https://transparent-images.herokuapp.com/)-->
-
 * [pixel.php](https://github.com/anytizer/pixel.php)
 * [picker.fa](https://anytizer.github.io/demo/picker.fa/index.html)
 * [phpinfo for WordPress](https://wordpress.org/plugins/php-info-wp/advanced/)
 * [relay.php](https://packagist.org/packages/anytizer/relay.php) - minimal http client (PHP/cURL based)
 
+<!--
+[![banner](https://transparent-images.herokuapp.com/image/?w=1000&h=100&color=FFFF00)](https://transparent-images.herokuapp.com/)
 ![trophies](https://github-profile-trophy.vercel.app/?username=anytizer&column=5&row=1)
-
 ![steaks](https://github-readme-streak-stats.herokuapp.com/?user=anytizer)
+-->
