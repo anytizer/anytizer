@@ -109,9 +109,11 @@ Below are my bookmarks to several nice-to-have applications.
 * [Opera](https://www.opera.com/)
 * [Chrome](https://www.google.com/intl/en_ca/chrome/)
 * [Firefox](https://www.mozilla.org/en-US/)
-* [FileZilla](https://filezilla-project.org/) Client/Server
+* [FileZilla](https://filezilla-project.org/) FTP(s) Client/Server
 * [SmarTTY](https://sysprogs.com/SmarTTY/) - multi-tabbed SSH client
+* [Multi Tabbed Putty](https://ttyplus.com/downloads/)
 * [ConEmu Windows Terminal](https://conemu.github.io/)
+* [WinSCP](https://winscp.net/eng/download.php)
 
 
 ## Collaboration Tools
