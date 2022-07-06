@@ -7,11 +7,13 @@ Below are my bookmarks to several nice-to-have applications.
 
 ## Databases, Modeling Tools and Browsers
 
-* [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [SQLite](https://www.sqlite.org/), [PostgreSQL](https://www.postgresql.org/)
-* Diagramming with: [DBSchema](https://dbschema.com/), [Workbench](https://www.mysql.com/products/workbench/design/)
-* Browsers: [HeidiSQL](https://www.heidisql.com/), [SQLYog Community](https://github.com/webyog/sqlyog-community/wiki/Downloads), [DB Browser for SQLite](https://sqlitebrowser.org), [DataGrip](https://www.jetbrains.com/datagrip/)
+* [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [Neor ProfileSQL](https://www.profilesql.com/)
+* [SQLite](https://www.sqlite.org/), [DB Browser for SQLite](https://sqlitebrowser.org)
+* [PostgreSQL](https://www.postgresql.org/)
+* [DBSchema](https://dbschema.com/), [Workbench](https://www.mysql.com/products/workbench/design/)
+* [DBeaver Community](https://dbeaver.io/download/), [DataGrip](https://www.jetbrains.com/datagrip/)
+* [HeidiSQL](https://www.heidisql.com/), [SQLYog Community](https://github.com/webyog/sqlyog-community/wiki/Downloads)
 * [PHPMyAdmin](https://www.phpmyadmin.net/), [PHP Lite Admin](https://www.phpliteadmin.org/)
-* [Neor ProfileSQL](https://www.profilesql.com/)
 
 
 ## Team Leadership in Software Development
