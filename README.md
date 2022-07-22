@@ -30,7 +30,7 @@ Below are my bookmarks to several nice-to-have applications.
 
 * C#, [PHP](https://php.net/?from=anytizer), [Python](https://python.org/?from=anytizer)
 * [Smarty](https://smarty-php.github.io/smarty/philosophy.html)
-* Javascripts, [Angular](https://angular.io/), [AngularJS](https://angularjs.org/), [Axios](https://github.com/axios/axios/)
+* [Javascripts](https://www.scaler.com/topics/javascript/), [Angular](https://angular.io/), [AngularJS](https://angularjs.org/), [Axios](https://github.com/axios/axios/)
 * CSS: [W3CSS](https://www.w3schools.com/w3css/default.asp), [Bootstrap](https://getbootstrap.com/), [TailwindCSS](https://tailwindcss.com), [SCSS](https://sass-lang.com/)
 * [JSON](https://www.json.org/json-en.html), [JSONedit](https://tomeko.net/software/JSONedit/), XML, CSV, HTML
 * API, [Micro Services](https://github.com/anytizer/micro-services.wp/tree/master/micro-services)
