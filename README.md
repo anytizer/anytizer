@@ -67,6 +67,7 @@ Below are my bookmarks to several nice-to-have applications.
 * [Filmora](https://filmora.wondershare.com/)
 * [ACDSee](https://www.acdsee.com/en/products/photo-studio-ultimate/)
 * [Photoshop](https://www.adobe.com/products/photoshop.html)
+* [TriSamples](https://trisamples.com/contact/) - royalty free samples; since before the word "DAW" existed ;-)
 
 
 ## DIY Electronics
@@ -95,6 +96,7 @@ Below are my bookmarks to several nice-to-have applications.
 
 
 ## IDE Extensions
+
 * [SonarLint](https://www.sonarsource.com/products/sonarlint/) for Visual Code
 * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 
