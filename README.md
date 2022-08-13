@@ -53,7 +53,6 @@ Below are my bookmarks to several nice-to-have applications.
 * [AAA Logo Design Software](https://www.aaa-logo.com/)
 * [InkScape](https://inkscape.org) - Draw freely
 * [VectorStyler](https://www.vectorstyler.com/)
-* [UXWING](https://uxwing.com/) - Exclusive collection of free icons download for commercial projects without attribution
 
 
 ## Audio, Video, Image Editing and Photography
@@ -68,10 +67,12 @@ Below are my bookmarks to several nice-to-have applications.
 * [ACDSee](https://www.acdsee.com/en/products/photo-studio-ultimate/)
 * [Photoshop](https://www.adobe.com/products/photoshop.html)
 
-### Sample Packs
+### Samples, Packs and Downloads
 
 * [TriSamples](https://trisamples.com/contact/) - royalty free samples; since before the word "DAW" existed ;-)
 * [Cymatics](https://cymatics.fm/)
+* [Free Sound](https://freesound.org/) - individual sounds
+* [UXWING](https://uxwing.com/) - Exclusive collection of free icons download for commercial projects without attribution
 
 ## DIY Electronics
 
