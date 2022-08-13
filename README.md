@@ -67,8 +67,11 @@ Below are my bookmarks to several nice-to-have applications.
 * [Filmora](https://filmora.wondershare.com/)
 * [ACDSee](https://www.acdsee.com/en/products/photo-studio-ultimate/)
 * [Photoshop](https://www.adobe.com/products/photoshop.html)
-* [TriSamples](https://trisamples.com/contact/) - royalty free samples; since before the word "DAW" existed ;-)
 
+### Sample Packs
+
+* [TriSamples](https://trisamples.com/contact/) - royalty free samples; since before the word "DAW" existed ;-)
+* [Cymatics](https://cymatics.fm/)
 
 ## DIY Electronics
 
@@ -141,6 +144,7 @@ Below are my bookmarks to several nice-to-have applications.
 
 
 ## Other links:
+
 * [pixel.php](https://github.com/anytizer/pixel.php)
 * [picker.fa](https://anytizer.github.io/demo/picker.fa/index.html)
 * [phpinfo for WordPress](https://wordpress.org/plugins/php-info-wp/advanced/)
