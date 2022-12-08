@@ -11,9 +11,11 @@ Below are my bookmarks to several nice-to-have applications.
 * [SQLite](https://www.sqlite.org/), [DB Browser for SQLite](https://sqlitebrowser.org)
 * [PostgreSQL](https://www.postgresql.org/)
 * [DBSchema](https://dbschema.com/), [Workbench](https://www.mysql.com/products/workbench/design/)
-* [DBeaver Community](https://dbeaver.io/download/), [DataGrip](https://www.jetbrains.com/datagrip/)
+* [DBeaver Community](https://dbeaver.io/download/)
+* [DataGrip](https://www.jetbrains.com/datagrip/) | [@YouTube](https://www.youtube.com/user/JetBrainsTV/search)
 * [HeidiSQL](https://www.heidisql.com/), [SQLYog Community](https://github.com/webyog/sqlyog-community/wiki/Downloads)
 * [PHPMyAdmin](https://www.phpmyadmin.net/), [PHP Lite Admin](https://www.phpliteadmin.org/)
+* [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview)
 
 
 ## Team Leadership in Software Development
