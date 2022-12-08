@@ -1,7 +1,6 @@
 ![Banner Image](banner.png)
 
 Please check out some of the Software, IDE, Authoring tools, and some cloud services I use frequently.
-A special thank goes for those vendors who provided me free access or software license to their products, so that I was able to bring my free snippets here in github.
 
 Below are my bookmarks to several nice-to-have applications.
 
@@ -10,9 +9,10 @@ Below are my bookmarks to several nice-to-have applications.
 * [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [Neor ProfileSQL](https://www.profilesql.com/)
 * [SQLite](https://www.sqlite.org/), [DB Browser for SQLite](https://sqlitebrowser.org)
 * [PostgreSQL](https://www.postgresql.org/)
-* [DBSchema](https://dbschema.com/), [Workbench](https://www.mysql.com/products/workbench/design/)
+* [DBSchema](https://dbschema.com/)
+* [Workbench](https://www.mysql.com/products/workbench/design/)
 * [DBeaver Community](https://dbeaver.io/download/)
-* [DataGrip](https://www.jetbrains.com/datagrip/) | [@YouTube](https://www.youtube.com/user/JetBrainsTV/search)
+* [DataGrip](https://www.jetbrains.com/datagrip/) | [@YouTube](https://www.youtube.com/user/JetBrainsTV/)
 * [HeidiSQL](https://www.heidisql.com/), [SQLYog Community](https://github.com/webyog/sqlyog-community/wiki/Downloads)
 * [PHPMyAdmin](https://www.phpmyadmin.net/), [PHP Lite Admin](https://www.phpliteadmin.org/)
 * [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview)
@@ -45,6 +45,7 @@ Below are my bookmarks to several nice-to-have applications.
 * [Kestrel](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-6.0)
 * [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
 * [Angular](https://angular.io/start/start-deployment) - ng serve
+* [NodeJS](https://nodejs.org/en/)
 
 
 ## Font, Logo, Icons and Vector Development
@@ -68,6 +69,7 @@ Below are my bookmarks to several nice-to-have applications.
 * [Filmora](https://filmora.wondershare.com/)
 * [ACDSee](https://www.acdsee.com/en/products/photo-studio-ultimate/)
 * [Photoshop](https://www.adobe.com/products/photoshop.html)
+* [Affinity](https://affinity.serif.com/en-us/)
 
 ### Samples, Packs and Downloads
 
@@ -119,10 +121,10 @@ Below are my bookmarks to several nice-to-have applications.
 * [Opera](https://www.opera.com/) | [Chrome](https://www.google.com/intl/en_ca/chrome/) | [Firefox](https://www.mozilla.org/en-US/)
 * [FileZilla](https://filezilla-project.org/) FTP(s) Server/Client | [Source Code](https://svn.filezilla-project.org/svn/FileZilla3/trunk/) - [Compiling](https://wiki.filezilla-project.org/Compiling_FileZilla_3_under_Windows)
 * [SmarTTY](https://sysprogs.com/SmarTTY/) - multi-tabbed SSH client
-* [Multi Tabbed Putty](https://ttyplus.com/downloads/)
+* [Multi Tabbed Putty](https://ttyplus.com/downloads/) | [Getting Started](https://ttyplus.com/multi-tabbed-putty/getting-started-with-mtputty/)
 * [ConEmu Windows Terminal](https://conemu.github.io/)
 * [WinSCP](https://winscp.net/eng/download.php) - [Version History](https://winscp.net/eng/docs/history)
-
+* [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 ## Collaboration Tools
 
