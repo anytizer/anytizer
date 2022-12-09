@@ -13,10 +13,11 @@ Below are my bookmarks to several nice-to-have applications.
 * [Workbench](https://www.mysql.com/products/workbench/design/)
 * [DBeaver Community](https://dbeaver.io/download/)
 * [DataGrip](https://www.jetbrains.com/datagrip/) | [@YouTube](https://www.youtube.com/user/JetBrainsTV/)
-* [HeidiSQL](https://www.heidisql.com/), [SQLYog Community](https://github.com/webyog/sqlyog-community/wiki/Downloads)
+* [HeidiSQL](https://www.heidisql.com/)
+* [SQLYog Community](https://github.com/webyog/sqlyog-community/wiki/Downloads)
 * [PHPMyAdmin](https://www.phpmyadmin.net/), [PHP Lite Admin](https://www.phpliteadmin.org/)
 * [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview)
-
+* [DB Froge for MySQL](https://www.devart.com/dbforge/mysql/) - requires login
 
 ## Team Leadership in Software Development
 
@@ -26,7 +27,6 @@ Below are my bookmarks to several nice-to-have applications.
 * Technical Development
 * Testing and Delivery Managemnet
 * Building up several micro-solutions
-
 
 ## Core Development
 
@@ -47,7 +47,6 @@ Below are my bookmarks to several nice-to-have applications.
 * [Angular](https://angular.io/start/start-deployment) - ng serve
 * [NodeJS](https://nodejs.org/en/)
 
-
 ## Font, Logo, Icons and Vector Development
 * [FontAwesome](https://fontawesome.com/download) - collection of free icons for web or desktop use
 * [Wikipedia - Comparision of Icon Sets](https://commons.wikimedia.org/wiki/Comparison_of_icon_sets)
@@ -56,7 +55,6 @@ Below are my bookmarks to several nice-to-have applications.
 * [AAA Logo Design Software](https://www.aaa-logo.com/)
 * [InkScape](https://inkscape.org) - Draw freely
 * [VectorStyler](https://www.vectorstyler.com/)
-
 
 ## Audio, Video, Image Editing and Photography
 
@@ -84,14 +82,12 @@ Below are my bookmarks to several nice-to-have applications.
 * [Arduino](https://www.arduino.cc/)
 * [EasyEDA](https://easyeda.com/), [Fritzing](https://fritzing.org/)
 
-
 ## Debugging and Unit Testing
 
 * [Xdebug](https://xdebug.org/)
 * [PHPUnit](https://phpunit.de/), [MSTest](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest), [Unit Testing in Python](https://docs.python.org/3/library/unittest.html)
 * [WordPres Testing](https://make.wordpress.org/core/handbook/testing/automated-testing/phpunit/)
 * [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code)
-
 
 ## IDEs and Code Editors
 
@@ -102,19 +98,16 @@ Below are my bookmarks to several nice-to-have applications.
 * [Notepad++](https://notepad-plus-plus.org)
 * [Visual Code](https://code.visualstudio.com/)
 
-
 ## IDE Extensions
 
 * [SonarLint](https://www.sonarsource.com/products/sonarlint/) for Visual Code
 * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
-
 
 ## Wireframes and Diagramming Tools
 
 * [yEd Graph Editor](https://www.yworks.com/products/yed/)
 * [Pencil](https://pencil.evolus.vn/)
 * [Balsamiq](https://balsamiq.com/)
-
 
 ## Browsers, Connectors and Terminals
 
@@ -132,13 +125,11 @@ Below are my bookmarks to several nice-to-have applications.
 * [MantisBT](https://www.mantisbt.org/)
 * [OnlyOffice](https://www.onlyoffice.com/)
 
-
 ## Version Control, DevOps
 
 * Self hosted (LAN Based): [SVN](https://subversion.apache.org/), [Git SCM](https://git-scm.com/)
 * Hosting: [GitHub](https://github.com/), [BitBucket](https://bitbucket.org/), [Heroku App example](https://transparent-images.herokuapp.com/)
 * Tools: [TrortoiseSVN](https://tortoisesvn.net/downloads.html), [TortoiseGit](https://tortoisegit.org/download/)
-
 
 ## Credits
 
@@ -147,16 +138,9 @@ Below are my bookmarks to several nice-to-have applications.
 * [Balsamiq Wireframing Tool](https://balsamiq.com/wireframes/?from=anytizer)
 * [pixabay](https://pixabay.com/?from=anytizer) for Images of [Database](https://pixabay.com/vectors/database-storage-cylinder-data-2025620/) and [Background Light](https://pixabay.com/vectors/database-storage-cylinder-data-2025620/)
 
-
 ## Other links:
 
 * [pixel.php](https://github.com/anytizer/pixel.php)
 * [picker.fa](https://anytizer.github.io/demo/picker.fa/index.html)
 * [phpinfo for WordPress](https://wordpress.org/plugins/php-info-wp/advanced/)
 * [relay.php](https://packagist.org/packages/anytizer/relay.php) - minimal http client (PHP/cURL based)
-
-<!--
-[![banner](https://transparent-images.herokuapp.com/image/?w=1000&h=100&color=FFFF00)](https://transparent-images.herokuapp.com/)
-![trophies](https://github-profile-trophy.vercel.app/?username=anytizer&column=5&row=1)
-![steaks](https://github-readme-streak-stats.herokuapp.com/?user=anytizer)
--->
