@@ -43,9 +43,9 @@ Below are my bookmarks to several nice-to-have applications.
 
 * [Apache](https://httpd.apache.org/?from=anytizer)
 * [Kestrel](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-6.0)
-* [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
+* [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework)), FastAPI, Django
 * [Angular](https://angular.io/start/start-deployment) - ng serve
-* [NodeJS](https://nodejs.org/en/)
+* [NodeJS](https://nodejs.org/en/) eg. for React
 
 ## Font, Logo, Icons and Vector Development
 * [FontAwesome](https://fontawesome.com/download) - collection of free icons for web or desktop use
@@ -129,7 +129,7 @@ Below are my bookmarks to several nice-to-have applications.
 
 * Self hosted (LAN Based): [SVN](https://subversion.apache.org/), [Git SCM](https://git-scm.com/)
 * Hosting: [GitHub](https://github.com/), [BitBucket](https://bitbucket.org/), [Heroku App example](https://transparent-images.herokuapp.com/)
-* Tools: [TrortoiseSVN](https://tortoisesvn.net/downloads.html), [TortoiseGit](https://tortoisegit.org/download/)
+* Tools: [TortoiseSVN](https://tortoisesvn.net/downloads.html), [TortoiseGit](https://tortoisegit.org/download/)
 
 ## Credits
 
